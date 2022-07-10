@@ -19,3 +19,5 @@ A simple counter app built with HTML, CSS and Javascript
 ## Demo
 
 Click the link below to view a live version of the counter
+
+[View Demo](https://js-count-app.netlify.app/)
